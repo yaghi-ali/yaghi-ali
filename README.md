@@ -15,5 +15,5 @@ Hybrid Machine Learning Engineer (Signals & Security) · Based in France · Remo
 Python · NumPy · Pandas · SciPy · scikit-learn · TensorFlow/Keras (or PyTorch) · Git · Linux
 
 ## Contact
-- LinkedIn: [link]
-- Email: [link or text]
+- LinkedIn: [[link]](https://www.linkedin.com/in/ali-yaghi-9a8339266/)
+- Email: alialiyaghi18@gmail.com
