@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ali Yaghi
+Hybrid Machine Learning Engineer (Signals & Security) · Based in France · Remote
 
-<!--
-**yaghi-ali/yaghi-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focus
+- Anomaly detection on time-series & sensor-like signals
+- Signal processing + ML (FFT, filtering, feature engineering)
+- Security-oriented detection (robustness, false positives/negatives)
 
-Here are some ideas to get you started:
+## Featured Projects
+- **Anomaly Detection Pipeline (Time-Series)** — repo link
+- **Signal Processing + ML Classifier** — repo link
+- **Security ML Prototype** — repo link
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python · NumPy · Pandas · SciPy · scikit-learn · TensorFlow/Keras (or PyTorch) · Git · Linux
+
+## Contact
+- LinkedIn: [link]
+- Email: [link or text]
