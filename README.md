@@ -17,7 +17,7 @@ Each repository explains its assumptions, installation and validation limits. Re
 
 ## Applied analysis demonstrations
 
-New in November 2026: six independent Python examples using synthetic data, with runnable scripts, figures and four automated tests each.
+New in November 2026: twelve independent Python examples using synthetic data, with runnable scripts, figures and four automated tests each.
 
 | Repository | Technical scope |
 |---|---|
@@ -27,6 +27,12 @@ New in November 2026: six independent Python examples using synthetic data, with
 | [Spectral peak fitting](https://github.com/yaghi-ali/spectral-peak-fitting-demo) | Joint Gaussian peak fitting, linear baseline, linewidths and residual diagnostics. |
 | [Digital lock-in](https://github.com/yaghi-ali/digital-lockin-demo) | Synchronous amplitude/phase recovery and reference-frequency sensitivity. |
 | [Thin-film surrogate](https://github.com/yaghi-ali/thin-film-surrogate-demo) | Polynomial ridge regression for single-layer reflectance, evaluated on held-out data. |
+| [Stokes polarimetry](https://github.com/yaghi-ali/stokes-polarimetry-demo) | Six-analyzer Stokes reconstruction, degree of polarization and physicality checks. |
+| [Pulse dispersion](https://github.com/yaghi-ali/pulse-dispersion-demo) | FFT propagation with quadratic spectral phase and analytical pulse-width validation. |
+| [Image registration](https://github.com/yaghi-ali/image-registration-demo) | Phase-correlation translation estimation, alignment and residual image diagnostics. |
+| [Allan noise analysis](https://github.com/yaghi-ali/allan-noise-analysis-demo) | Overlapping Allan deviation, white-noise scaling and drift diagnostics. |
+| [PCA sensor anomalies](https://github.com/yaghi-ali/pca-sensor-anomaly-demo) | Training-only PCA, separate threshold calibration and held-out anomaly detection. |
+| [Thermal response identification](https://github.com/yaghi-ali/thermal-response-identification-demo) | First-order time-constant estimation, settling time and held-out prediction. |
 
 These are portfolio demonstrations, not client case studies. Synthetic metrics and model assumptions are documented in each repository.
 
